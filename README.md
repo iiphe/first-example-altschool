@@ -1,0 +1,2 @@
+# first-example-altschool
+none
